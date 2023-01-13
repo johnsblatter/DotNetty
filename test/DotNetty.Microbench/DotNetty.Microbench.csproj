@@ -13,7 +13,7 @@
     <RuntimeIdentifier>win-x64</RuntimeIdentifier>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="BenchmarkDotNet" Version="0.13.0" />
+    <PackageReference Include="BenchmarkDotNet" Version="0.13.4" />
     <PackageReference Include="Microsoft.Diagnostics.Tracing.TraceEvent" Version="2.0.61" />
     <PackageReference Include="BenchmarkDotNet.Diagnostics.Windows" Version="0.13.0" />
   </ItemGroup>
